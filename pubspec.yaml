@@ -1,0 +1,23 @@
+name: testing_apk
+description: A new Flutter project.
+
+environment:
+  sdk: '^3.9.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/fonts/
+
+  fonts:
+    - family: Oswald
+      fonts:
+        - asset: assets/fonts/Oswald/Oswald-VariableFont_wght.ttf
+    - family: GreatVibes
+      fonts:
+        - asset: assets/fonts/Great_Vibes/GreatVibes-Regular.ttf
