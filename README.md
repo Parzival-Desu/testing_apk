@@ -1,18 +1,18 @@
-# Themed Flutter App
+# 🎨 Themed Flutter App
 
-This Flutter app was created following the **Pertemuan 5 - Themes, Colors, and Fonts** instruction (UTB).  
-It demonstrates the use of **ThemeData**, **Colors**, and **Custom Fonts** in a simple and consistent UI.
+This Flutter app was created following the **Pertemuan 5 - Themes, Colors, and Fonts** instructions (UTB).  
+It demonstrates how to apply **ThemeData**, **Colors**, and **Custom Fonts** consistently across a Flutter application — exactly as shown in the course PDF.
 
 ---
 
-## 🎨 Features
-- Custom theme using `ThemeData`
-- Consistent color palette (`Colors.deepPurple`)
-- Two custom fonts from [Google Fonts](https://fonts.google.com):
-  - **Oswald** – used for headings
-  - **Great Vibes** – used for accent or decorative text
-- Clean, consistent layout following UI design principles
-- Built and tested on Flutter SDK 3.x
+## ✨ Features
+- Custom `ThemeData` with `Colors.deepPurple` as the primary color
+- Light purple background for consistent theme
+- Two Google Fonts:
+  - **Oswald** → for body text
+  - **Great Vibes** → for headings
+- Consistent UI layout (AppBar, Card, Text, and Button)
+- Works perfectly on **Chrome** or Android emulator/device
 
 ---
 
@@ -20,7 +20,7 @@ It demonstrates the use of **ThemeData**, **Colors**, and **Custom Fonts** in a 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<yourusername>/testing_apk.git
+   git clone https://github.com/Parzival-Desu/testing_apk.git
 
 ## 🖼️ Screenshot
 
