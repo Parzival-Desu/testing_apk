@@ -21,3 +21,7 @@ It demonstrates the use of **ThemeData**, **Colors**, and **Custom Fonts** in a 
 1. Clone this repository:
    ```bash
    git clone https://github.com/<yourusername>/testing_apk.git
+
+## 🖼️ Screenshot
+
+![App Screenshot](screenshot.png)
