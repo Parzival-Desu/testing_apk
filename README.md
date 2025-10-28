@@ -25,3 +25,4 @@ It demonstrates how to apply **ThemeData**, **Colors**, and **Custom Fonts** con
 ## 🖼️ Screenshot
 
 ![App Screenshot](screenshot.png)
+![App Screenshot](screenshot2.jpg)
